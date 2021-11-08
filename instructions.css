@@ -1,0 +1,25 @@
+.page {
+    background-color: #419aa4;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    font-size: 80px;
+    font-family: sans-serif;
+    text-align: center;
+    background-color: #419aa4;
+    
+    
+}
+
+.main {
+    
+}
+
+.footer {
+    background-color: #419aa4;
+    padding-top: 500px;
+    margin: 0;
+    text-align: center;
+}
